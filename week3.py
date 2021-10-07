@@ -43,7 +43,7 @@ def main():
             plt.xticks(rotation=20)
             plt.savefig('001.png')
             #df_select.to_csv("chartdata.csv")
-
+            #print('----Done')
         
         else:
             print('Error: Locations' + str(list2) + ' are not found in dataset. Cannot proceed.')
