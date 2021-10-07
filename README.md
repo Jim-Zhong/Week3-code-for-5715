@@ -1,4 +1,4 @@
-CODE from Jim
+Programming for Data Analytics
 =============
 Week3 tutorial tasks
 ---------------------
